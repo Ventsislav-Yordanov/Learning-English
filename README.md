@@ -1,7 +1,7 @@
 # Learning-English
 ## List of resources for learning English
 * http://www.speaking24.com/ - free English conversation lessons online!
-* http://www.mylanguageexchange.com/ - free English conversations with other peoples.
+* http://www.mylanguageexchange.com/ - free English conversations with other people.
 * https://www.lingoda.com/english/courses/standard - Start Learning English Today! 100% native teachers, Learning materials incl., Flexible start dates **PAID**
 * http://www.fluentu.com/english/ - Learn English with real-world videos through FluentU! **PAID**
 * http://www.abaenglish.com/en/ - English courses for learning English (listening, speaking, writing, vocabulary, cerificates) **PAID**
