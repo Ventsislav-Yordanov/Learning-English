@@ -15,11 +15,18 @@
 * https://www.vocabulary.com/lists/52473 - The top 1,000 vocabulary words
 * https://www.englishclub.com/ - grammar, vocabulary, pronunciation, listening, speaking, reading, writing
 * The English we speak podcast -> [on itunes](https://itunes.apple.com/us/podcast/the-english-we-speak/id262026989?mt=2), [on web](http://www.bbc.co.uk/programmes/p02pc9zn)
+* http://englishtips.org/
+
 
 ## List For Bulgarians (Материали на български език)
 * https://bg.speaklanguages.com/ - разговорници с фрази
 * https://easierenglish.bg/ - EasierEnglish.BG е проект с уроци и упражнения за английската граматика, насочени към всички начинаещи и средно-напреднали в обучението си. При тях всичко е структурирано, подредено и обяснено на роден, български език.
 * http://pons.bg/?act=products&do=details&id=837 - Самоучител по английски за 4 седмици (включва диск с упражения). След приключване на курса учащите могат да постигнат добро основно ниво или А2
+
+## Books
+* Essential Grammar in Use
+* English Grammar in Use
+* Advanced Grammar in Use
 
 ## Blog posts about how to improve your English skills:
 * http://www.fluentu.com/english/blog/how-to-improve-spoken-english/
