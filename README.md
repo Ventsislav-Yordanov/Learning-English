@@ -14,10 +14,10 @@
 * http://english-club.tv/ - English channels for learning English for all levels
 * https://www.vocabulary.com/lists/52473 - The top 1,000 vocabulary words
 * https://www.englishclub.com/ - grammar, vocabulary, pronunciation, listening, speaking, reading, writing
-* The English we speak podcast -> [on itunes](https://itunes.apple.com/us/podcast/the-english-we-speak/id262026989?mt=2), [on web](http://www.bbc.co.uk/programmes/p02pc9zn)
+* The English we speak podcast: [on itunes](https://itunes.apple.com/us/podcast/the-english-we-speak/id262026989?mt=2), [on web](http://www.bbc.co.uk/programmes/p02pc9zn)
 * http://englishtips.org/
 * https://www.memrise.com/home/
-* 6 Minutes Vocabulary podcast [on itunes](https://itunes.apple.com/us/podcast/6-minute-vocabulary/id1036379102?mt=2), [on web]http://www.bbc.co.uk/programmes/p02pc9xz/episodes/downloads
+* 6 Minutes Vocabulary podcast: [on itunes](https://itunes.apple.com/us/podcast/6-minute-vocabulary/id1036379102?mt=2), [on web](http://www.bbc.co.uk/programmes/p02pc9xz/episodes/downloads)
 * [BBC Learning English](http://www.bbc.co.uk/learningenglish/english/)
 
 
