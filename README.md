@@ -19,6 +19,7 @@
 * https://www.memrise.com/home/
 * 6 Minutes Vocabulary podcast: [on itunes](https://itunes.apple.com/us/podcast/6-minute-vocabulary/id1036379102?mt=2), [on web](http://www.bbc.co.uk/programmes/p02pc9xz/episodes/downloads)
 * [BBC Learning English](http://www.bbc.co.uk/learningenglish/english/)
+* https://www.learnenglish.de/vocabulary/clothes.html - Learn English vocabulary with pictures
 
 
 ## List For Bulgarians (Материали на български език)
