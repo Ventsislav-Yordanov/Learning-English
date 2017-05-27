@@ -17,6 +17,8 @@
 * The English we speak podcast -> [on itunes](https://itunes.apple.com/us/podcast/the-english-we-speak/id262026989?mt=2), [on web](http://www.bbc.co.uk/programmes/p02pc9zn)
 * http://englishtips.org/
 * https://www.memrise.com/home/
+* 6 Minutes Vocabulary podcast [on itunes](https://itunes.apple.com/us/podcast/6-minute-vocabulary/id1036379102?mt=2), [on web]http://www.bbc.co.uk/programmes/p02pc9xz/episodes/downloads
+* [BBC Learning English](http://www.bbc.co.uk/learningenglish/english/)
 
 
 ## List For Bulgarians (Материали на български език)
