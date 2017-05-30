@@ -41,6 +41,12 @@
 * http://www.wikihow.com/Learn-English-Faster
 * http://www.fluentu.com/english/blog/how-to-improve-english-pronunciation/?lang=en
 
+## Tongue twisters
+* http://www.uebersetzung.at/twister/en.htm
+* https://www.engvid.com/english-resource/50-tongue-twisters-improve-pronunciation/
+* http://www.ef.com/english-resources/tongue-twisters-english/
+* http://pun.me/pages/tongue-twisters.php
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
