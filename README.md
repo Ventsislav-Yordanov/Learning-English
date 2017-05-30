@@ -23,7 +23,8 @@
 * [Readlang](http://readlang.com/en/dashboard) - Read, translate and supercharge your vocabulary
 
 ## Mobile apps
-* https://itunes.apple.com/us/app/6-minute-english-vocabulary-grammar/id1042599286?mt=8
+* https://itunes.apple.com/us/app/6-minute-english-vocabulary-grammar/id1042599286?mt=8 - iOS
+* https://www.memrise.com/app/ - Android, iOS
 
 ## List For Bulgarians (Материали на български език)
 * https://bg.speaklanguages.com/ - разговорници с фрази
