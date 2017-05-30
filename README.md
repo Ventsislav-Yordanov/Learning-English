@@ -39,6 +39,7 @@
 * http://www.fluentin3months.com/speak-it/
 * http://www.wikihow.com/Speak-English
 * http://www.wikihow.com/Learn-English-Faster
+* http://www.fluentu.com/english/blog/how-to-improve-english-pronunciation/?lang=en
 
 ## License
 
