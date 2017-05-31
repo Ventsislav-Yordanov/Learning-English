@@ -43,6 +43,7 @@
 * http://www.wikihow.com/Speak-English
 * http://www.wikihow.com/Learn-English-Faster
 * http://www.fluentu.com/english/blog/how-to-improve-english-pronunciation/?lang=en
+* http://www.fluentu.com/english/blog/learn-english-through-songs-music/
 
 ## Tongue twisters
 * http://www.uebersetzung.at/twister/en.htm
