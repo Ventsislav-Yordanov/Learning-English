@@ -44,6 +44,7 @@
 * http://www.wikihow.com/Learn-English-Faster
 * http://www.fluentu.com/english/blog/how-to-improve-english-pronunciation/?lang=en
 * http://www.fluentu.com/english/blog/learn-english-through-songs-music/
+* [Top 14 Places to Find an English Speaking Partner Online](http://www.fluentu.com/blog/english/english-speaking-online/?lang=en)
 
 ## Tongue twisters
 * http://www.uebersetzung.at/twister/en.htm
