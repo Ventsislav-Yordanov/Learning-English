@@ -1,5 +1,6 @@
 # Learning-English
 ## List of resources for learning English
+* [Wikipedia:Basic English alphabetical wordlist](https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_alphabetical_wordlist)
 * http://www.speaking24.com/ - free English conversation lessons online!
 * http://www.mylanguageexchange.com/ - free English conversations with other people.
 * https://www.lingoda.com/english/courses/standard - Start Learning English Today! 100% native teachers, Learning materials incl., Flexible start dates **PAID**
